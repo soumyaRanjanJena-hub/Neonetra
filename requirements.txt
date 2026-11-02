@@ -1,0 +1,25 @@
+# NeoNetra V2.0 — Edge Hub Dependencies
+
+# Computer Vision
+opencv-python
+ultralytics
+numpy
+Pillow
+
+# AI / ML
+torch
+torchvision
+transformers
+
+# Gemini API
+google-genai
+python-dotenv
+
+# Text-to-Speech + Audio
+gTTS
+pygame-ce
+
+# Server (Phase 2)
+fastapi
+uvicorn[standard]
+websockets
